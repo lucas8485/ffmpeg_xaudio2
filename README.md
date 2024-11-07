@@ -35,13 +35,13 @@ ffmpeg_xaudio2
 
 ### 版权说明
 
-This project is licensed under GNU GPLv2, see [LICENSE.txt](https://github.com/lucas8485/ffmpeg_xaudio2/blob/master/LICENSE.txt)
+This project is licensed under WTFPL License, see [LICENSE.txt](https://github.com/lucas8485/ffmpeg_xaudio2/blob/main/LICENSE.txt)
 
 ffmpeg and XAudio2's licenses can be found in their website
 
 ffmpeg: [ffmpeg_license](https://ffmpeg.org/legal.html)
 
-XAudio2: [xaudio2_license](https://github.com/lucas8485/ffmpeg_xaudio2/blob/master/LICENSE.XAudio2.txt)
+XAudio2: [xaudio2_license](https://github.com/lucas8485/ffmpeg_xaudio2/blob/main/LICENSE.XAudio2.txt)
 
 
 
